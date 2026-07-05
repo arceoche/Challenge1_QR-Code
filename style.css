@@ -22,11 +22,11 @@ body{
 }
 
 .container{
-    max-width: 337px;
+    max-width: 334px;
     background-color: var(--clr-white);
     margin: 0 auto;
-    border-radius: 15px;
-    box-shadow: 0 15px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 25px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
     
 }
 
