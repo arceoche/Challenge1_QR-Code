@@ -22,7 +22,7 @@ body{
 }
 
 .container{
-    max-width: 330px;
+    max-width: 337px;
     background-color: var(--clr-white);
     margin: 0 auto;
     border-radius: 15px;
@@ -40,7 +40,7 @@ body{
 
 .card-text{
     text-align: center;
-    padding-top: 15px;
+    padding: 15px 5px 0 5px;
 }
 
 .card-text h1{
